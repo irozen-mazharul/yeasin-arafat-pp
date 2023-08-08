@@ -28,7 +28,7 @@
     <div class="row">
         <div class="col-md-6 mx-auto">
 {{--            section 1--}}
-            <div class="section-1 mt-3 d-flex justify-content-between">
+            <div class="section-1 mt-4 d-flex justify-content-between">
                 <div class=" d-flex bg-white subscribe-btn-parent">
                     <i class="mt-2 fa-regular fa-bell text-dark"></i>
                     <p class="mx-2 subscribe-btn fw-bolder text-dark">Subscribe</p>
@@ -40,13 +40,23 @@
 {{--            section 2--}}
             <div class="section-2">
                 <div class="profile-image d-flex justify-content-center">
-                    <img src="{{asset('asset/img/profile.jpg')}}" class="profile-avatar" alt="">
+                    <img src="{{asset('asset/img/left-profile.jpg')}}" class="profile-avatar" alt="">
                 </div>
                 <div class="twitter mt-2">
                     <p class="text-center twitter-text">@yeasinArafat_25477</p>
                 </div>
                 <div class="academy-title">
-                    <h4 class="text-center mt-5">Yeasin University</h4>
+                    <h4 class="text-center mt-4">Yeasin University</h4>
+                </div>
+            </div>
+{{--            section 3--}}
+            <div class="section-3 bg-white d-flex flex-row mt-3 py-3">
+                <div class="left-image">
+                    <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">
+                </div>
+                <div class="section-3-content w-100 d-flex flex-column justify-content-center">
+                    <p class="text-center p1">Course a enroll korar jonno click korun</p>
+                    <p class="text-center p2">Course a enroll korar jonno click korun</p>
                 </div>
             </div>
         </div>
