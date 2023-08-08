@@ -99,7 +99,7 @@
 {{--            section 8--}}
             <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
                 <div class="left-image">
-                    <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">
+                    <img src="{{asset('asset/img/golden.jpg')}}" class="left-image" alt="">
                 </div>
                 <div class="section-3-content w-100 d-flex flex-column justify-content-center">
                     <p class="text-center p1">$250 KA FREE STOCK CLAIM KARE </p>
@@ -115,7 +115,14 @@
                     <p class="text-center p1">My Facebook Page</p>
                 </div>
             </div>
-
+{{--            section 9--}}
+            <div class="section-9 d-flex flex-row mt-4 py-4">
+                <div class="section-9-container w-100 d-flex flex-column">
+                    <h5 class="text-center section-9-h py-2">Ask me anything direct msg</h5>
+                    <p class="text-center section-9-p py-2">20-second custom video</p>
+                    <a href="" class="section-9-anchore">Start $20 Request</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
