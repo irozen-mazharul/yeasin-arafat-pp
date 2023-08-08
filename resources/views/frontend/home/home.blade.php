@@ -24,7 +24,7 @@
     </style>
 </head>
 <body>
-<div class="container">
+<div class="container mb-5">
     <div class="row">
         <div class="col-md-6 mx-auto">
 {{--            section 1--}}
@@ -50,7 +50,7 @@
                 </div>
             </div>
 {{--            section 3--}}
-            <div class="section-3 bg-white d-flex flex-row mt-3 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
                 <div class="left-image">
                     <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">
                 </div>
@@ -59,6 +59,63 @@
                     <p class="text-center p2">Course a enroll korar jonno click korun</p>
                 </div>
             </div>
+{{--            section 4--}}
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+                <div class="left-image">
+{{--                    <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">--}}
+                </div>
+                <div class="section-3-content w-100 d-flex flex-column justify-content-center">
+                    <p class="text-center p1">Form Your LLC Cheap price</p>
+                </div>
+            </div>
+{{--            section 5--}}
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+                <div class="left-image">
+                    <img src="{{asset('asset/img/analysis-book.jpg')}}" class="left-image" alt="">
+                </div>
+                <div class="section-3-content w-100 d-flex flex-column justify-content-center">
+                    <p class="text-center p1">Technical Analysis Book</p>
+                    <p class="text-center p2">Candlestick Technical Analysis Book</p>
+                </div>
+            </div>
+{{--            section 6--}}
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+                <div class="left-image">
+                    <img src="{{asset('asset/img/youtube.jpg')}}" class="left-image" alt="">
+                </div>
+                <div class="section-3-content w-100 d-flex flex-column justify-content-center">
+                    <p class="text-center p1">My Youtube</p>
+                </div>
+            </div>
+{{--            section 7--}}
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+                <div class="left-image">
+                    <img src="{{asset('asset/img/instagram.jpg')}}" class="left-image" alt="">
+                </div>
+                <div class="section-3-content w-100 d-flex flex-column justify-content-center">
+                    <p class="text-center p1">My Instagram</p>
+                </div>
+            </div>
+{{--            section 8--}}
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+                <div class="left-image">
+                    <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">
+                </div>
+                <div class="section-3-content w-100 d-flex flex-column justify-content-center">
+                    <p class="text-center p1">$250 KA FREE STOCK CLAIM KARE </p>
+                    <p class="text-center p2">Free Stock</p>
+                </div>
+            </div>
+{{--            section 8--}}
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+                <div class="left-image">
+{{--                    <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">--}}
+                </div>
+                <div class="section-3-content w-100 d-flex flex-column justify-content-center">
+                    <p class="text-center p1">My Facebook Page</p>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
