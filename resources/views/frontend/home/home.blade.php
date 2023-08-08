@@ -27,6 +27,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6 mx-auto">
+{{--            section 1--}}
             <div class="section-1 mt-3 d-flex justify-content-between">
                 <div class=" d-flex bg-white subscribe-btn-parent">
                     <i class="mt-2 fa-regular fa-bell text-dark"></i>
@@ -34,6 +35,18 @@
                 </div>
                 <div class="share-btn bg-white">
                     <i class="fa-solid fa-share-nodes fw-bold text-dark share-icon"></i>
+                </div>
+            </div>
+{{--            section 2--}}
+            <div class="section-2">
+                <div class="profile-image d-flex justify-content-center">
+                    <img src="{{asset('asset/img/profile.jpg')}}" class="profile-avatar" alt="">
+                </div>
+                <div class="twitter mt-2">
+                    <p class="text-center twitter-text">@yeasinArafat_25477</p>
+                </div>
+                <div class="academy-title">
+                    <h4 class="text-center mt-5">Yeasin University</h4>
                 </div>
             </div>
         </div>

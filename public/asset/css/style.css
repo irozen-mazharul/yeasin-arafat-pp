@@ -23,3 +23,21 @@
     margin-top: 3px;
     font-size: 20px;
 }
+
+.section-2{
+    margin-top: 4rem;
+}
+
+.profile-avatar{
+    height: 110px;
+    width: 110px;
+    border-radius: 50px;
+}
+
+.profile-image{
+
+}
+.twitter-text{
+    font-size: 18px;
+    font-weight: unset;
+}
