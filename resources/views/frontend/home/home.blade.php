@@ -123,6 +123,26 @@
                     <a href="" class="section-9-anchore">Start $20 Request</a>
                 </div>
             </div>
+{{--            section 10--}}
+            <div class="section-9 d-flex flex-row mt-4 py-4">
+                <div class="section-9-container w-100 d-flex flex-column">
+                    <h5 class="section-9-h py-2" style="margin-left: 15px;">Book 1:1 Call with Me</h5>
+                    <p class="section-9-p py-2" style="margin-left: 15px;">1:1 Call appointment</p>
+                    <p class="section-9-p py-2" style="margin-left: 15px;">1 hour - $1000</p>
+                    <a href="" class="section-9-anchore" style="width: 90%">spanBook a 1:1 call</a>
+                </div>
+            </div>
+            <div class="section-10 mt-4 py-4">
+                <iframe
+                    width="630"
+                    height="315"
+                    style="border-radius: 25px"
+                    src="https://www.youtube.com/embed/AK4VVCqu8bE"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen>
+                </iframe>
+            </div>
         </div>
     </div>
 </div>
