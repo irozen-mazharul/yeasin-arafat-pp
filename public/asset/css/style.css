@@ -89,3 +89,11 @@
     font-size: 20px;
     color: white;
 }
+
+.animation-effect{
+    transition: transform 0.3s ease-in-out;
+}
+
+.animation-effect:hover{
+    transform: scale(1.1);
+}

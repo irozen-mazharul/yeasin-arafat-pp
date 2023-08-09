@@ -50,7 +50,7 @@
                 </div>
             </div>
 {{--            section 3--}}
-            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3 animation-effect">
                 <div class="left-image">
                     <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">
                 </div>
@@ -60,7 +60,7 @@
                 </div>
             </div>
 {{--            section 4--}}
-            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3 animation-effect">
                 <div class="left-image">
 {{--                    <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">--}}
                 </div>
@@ -69,7 +69,7 @@
                 </div>
             </div>
 {{--            section 5--}}
-            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3 animation-effect">
                 <div class="left-image">
                     <img src="{{asset('asset/img/analysis-book.jpg')}}" class="left-image" alt="">
                 </div>
@@ -79,7 +79,7 @@
                 </div>
             </div>
 {{--            section 6--}}
-            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3 animation-effect">
                 <div class="left-image">
                     <img src="{{asset('asset/img/youtube.jpg')}}" class="left-image" alt="">
                 </div>
@@ -88,7 +88,7 @@
                 </div>
             </div>
 {{--            section 7--}}
-            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3 animation-effect">
                 <div class="left-image">
                     <img src="{{asset('asset/img/instagram.jpg')}}" class="left-image" alt="">
                 </div>
@@ -97,7 +97,7 @@
                 </div>
             </div>
 {{--            section 8--}}
-            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3 animation-effect">
                 <div class="left-image">
                     <img src="{{asset('asset/img/golden.jpg')}}" class="left-image" alt="">
                 </div>
@@ -107,7 +107,7 @@
                 </div>
             </div>
 {{--            section 8--}}
-            <div class="section-3 bg-white d-flex flex-row mt-4 py-3">
+            <div class="section-3 bg-white d-flex flex-row mt-4 py-3 animation-effect">
                 <div class="left-image">
 {{--                    <img src="{{asset('asset/img/profile.jpg')}}" class="left-image" alt="">--}}
                 </div>
@@ -129,7 +129,7 @@
                     <h5 class="section-9-h py-2" style="margin-left: 15px;">Book 1:1 Call with Me</h5>
                     <p class="section-9-p py-2" style="margin-left: 15px;">1:1 Call appointment</p>
                     <p class="section-9-p py-2" style="margin-left: 15px;">1 hour - $1000</p>
-                    <a href="" class="section-9-anchore" style="width: 90%">spanBook a 1:1 call</a>
+                    <a href="" class="section-9-anchore" style="width: 90%">Book a 1:1 call</a>
                 </div>
             </div>
             <div class="section-10 mt-4 py-4">
