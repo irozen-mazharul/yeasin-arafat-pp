@@ -31,7 +31,7 @@
             <div class="section-1 mt-4 d-flex justify-content-between">
                 <div class=" d-flex bg-white subscribe-btn-parent">
                     <i class="mt-2 fa-regular fa-bell text-dark"></i>
-                    <p class="mx-2 subscribe-btn fw-bolder text-dark">Subscribe</p>
+                    <p class="mx-2 subscribe-btn fw-bolder text-dark" id="subscribe-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Subscribe</p>
                 </div>
                 <div class="share-btn bg-white">
                     <i class="fa-solid fa-share-nodes fw-bold text-dark share-icon"></i>
@@ -146,10 +146,12 @@
         </div>
     </div>
 </div>
+
+@include('frontend.modal.subscribe')
 {{-- Your content goes here --}}
 <script src="{{ asset('asset/js/code.jquery.com_jquery-3.7.0.js') }}"></script>
 <script src="{{ asset('asset/js/bootstrap.js') }}"></script>
 <script src="{{ asset('asset/js/main.js') }}"></script>
 </body>
 </html>
-  
+

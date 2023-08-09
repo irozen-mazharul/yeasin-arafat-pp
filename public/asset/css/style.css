@@ -1,7 +1,9 @@
 * {
     color: #BBBEBF;
     font-size: 12px;
+    scroll-behavior: smooth;
 }
+
 .subscribe-btn-parent{
     border-radius: 27px;
     padding-left: 20px;
